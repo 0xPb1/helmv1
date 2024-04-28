@@ -1,7 +1,7 @@
 # Helm Charts
 
-This repository contains packaged Helm charts provided by Lian Duan.   
-The Chert files is used to Helm 3 Training
+This repository contains packaged Helm charts provided by Prashanth Bodepu.   
+The chart files is used for creating a sample helm charts
 
 
 ## Add Repository (stable)
